@@ -19,8 +19,11 @@
 <!--
 - 📫 How to reach me ...
 -->
-![alt text](https://github.com/Wolkensteine/Wolkensteine/blob/main/WolkensteineIcon.png "Logo")
-
+<br><br>
+<div align="center">
+  <img src='https://github.com/Wolkensteine/Wolkensteine/blob/main/WolkensteineIcon.png' alt='Logo' width='50%'>
+</div>
+<br>
 <div align="center">
   <h2>Achievements & Stats</h2>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
